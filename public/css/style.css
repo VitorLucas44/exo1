@@ -7,7 +7,14 @@ section:nth-last-child(1){
 }
 
 /* début exo 01 les_hover_01 */
-
+#les_hover_01{
+    height: 150px;
+    width: 150px;
+    background-color: lightblue;
+}
+#les_hover_01:hover{
+    background-color: purple;   
+}
 /* fin exo 01 les_hover_01 */
 
 
